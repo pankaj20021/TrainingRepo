@@ -15,8 +15,6 @@ using System.Text.Json.Serialization;
 var builder = WebApplication.CreateBuilder(args);
 
 ExcelPackage.LicenseContext = LicenseContext.NonCommercial;
-
-//builder.Services.AddControllers()
   
 // Add services to the container
 builder.Services.AddControllers()
