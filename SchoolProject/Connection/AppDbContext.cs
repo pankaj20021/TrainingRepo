@@ -15,7 +15,6 @@ namespace SchoolProject.Connection
         public DbSet<StudentAddress> StudentAddresss { get; set; }
         public DbSet<StudentCourse> StudentCourses { get; set; }
         public DbSet<Country> Countries { get; set; }
-
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
