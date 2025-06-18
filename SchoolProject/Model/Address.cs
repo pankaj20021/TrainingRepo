@@ -7,7 +7,5 @@ namespace SchoolProject.Model
         [Key]
         public int AddressId { get; set; }
         public string? AddressName { get; set;}
-     
-       
     }
 }
