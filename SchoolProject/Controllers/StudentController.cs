@@ -6,7 +6,6 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using SchoolProject.DTOs;
-
 using SchoolProject.DTOs.Paging;
 using SchoolProject.Filter;
 using SchoolProject.Model;
