@@ -2,8 +2,6 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using SchoolProject.DTOs;
-
-
 using SchoolProject.Model;
 using System.Collections.Generic;
 
